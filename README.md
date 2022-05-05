@@ -8,5 +8,5 @@ I would like to know when time has an affect and maybe when it doesn't.
 
 To answer these questions I am going to model each of these situations using a class. The different neighboors are going to be the objects of that class, and 
 each situation is going to be a different instance of that class. Each person is going to be almost identical except for their specific situation (divorce, buying a 
-house, or being unemployed). They are all going to have a salary of 70,000, save 10% of their income, and put their money into a high yield savings account. With 
-a .5% APY (Annual percentage yield). 
+house, or being unemployed). They are all going to have a salary of 70,000, save 10% of their income, and put their money into a high yield savings account with 
+a .5% APY (Annual percentage yield). That is the ammount of interest that the account gets each year. This is the simpilest way to model a retirement fund without including investing. 
